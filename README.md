@@ -9,11 +9,11 @@ QQ/微信短剧搜索机器人
 ## 运行框架
 插件运行框架为可爱猫框架，使用期间一切问题与本人无关
 学习交流联系V:CCQZZZ
-## 插件下载地址
-
+## 插件下载地址及官方网站
+[官网地址](https://uuxiao.cn)
 [插件下载链接](https://pan.xunlei.com/s/VNsm1qe_P9dWgr2owSrnySsAA1?pwd=cwci#)
 访问密码:cwci
 
 ## 插件运行截图
-![软件界面截图](1710237811822.png)
+![软件界面截图]([1710237811822.png](https://taiyi.uuxiao.cn/1710900336893.png)https://taiyi.uuxiao.cn/1710900336893.png)
 
